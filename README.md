@@ -7,6 +7,7 @@ Installera agent på server
 1. Vilken deployment group ska användas? Bör finnas två, en för testmiljöer och en för prod. Skapa en om det inte finns.
 
 2. Installera en agent på servern som miljön ska ligga på (målservern)
+
   a. Detta genom att köra bifogat powershell-skriptet och följa instruktionerna
   b. Installera alltid agenten på data-disken (normalt E:)
   c. Du måste här ange kontot som har beställts och du måste ha lösenordet tillgängligt
